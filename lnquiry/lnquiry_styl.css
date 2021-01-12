@@ -10,3 +10,11 @@
     width: 400px;
     height: 500px;
 }
+
+@media only screen and (max-width: 670px) {
+    .all {
+        font-size: 20%;
+        position: relative;
+        right: 430px;
+      }
+    }
